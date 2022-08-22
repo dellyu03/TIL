@@ -28,13 +28,15 @@ git init
 ### 4. 스테이징
 
 ```
-git add
+git add 파일명
+git add .       //현재 폴더의 모든 파일을 스테이징
 ```
 
 ### 5. 커밋
 
 ```
 git commit -m "커밋 메시지"
+git commit -a
 ```
 
 ### 6. 푸쉬
