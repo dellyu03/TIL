@@ -37,3 +37,17 @@ git commit -a
 ```
 git push
 ```
+
+## 깃허브 저장소와 로컬 파일 연동
+
+1.git 초기화
+
+```
+git init
+```
+
+2. 저장소 연결
+
+```
+git remote add origin "repository URL"   //연동할 저장소의 URL
+```
