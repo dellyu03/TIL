@@ -37,6 +37,7 @@ var introduce = "my name : " + person.name + " my job : " + person.job;
 ```
 
 여러 문자열과 변수들을 합칠 경우 코드가 복잡해 보임
+<br></br>
 
 ### 템플릿 문자열(ES6)
 
@@ -55,6 +56,8 @@ var introduce = `my name : ${person.name} my job : ${person.job}`;
 // 결과값 : 'my name : Tom my job : student'
 ```
 
+<br></br>
+
 ## 2. 전개 연산자
 
 ### 기존자바스크립트 배열 조작(ES6 이전)
@@ -65,10 +68,14 @@ var introduce = `my name : ${person.name} my job : ${person.job}`;
 
 ```
 
+<br></br>
+
 ### ES6 배열 조작
 
 ```
 
 ```
+
+<br></br>
 
 ## 3. 가변 변수
