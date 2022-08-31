@@ -38,6 +38,8 @@ git commit -a
 git push
 ```
 
+## git clone
+
 ## 깃허브 저장소와 로컬 파일 연동
 
 1.git 초기화

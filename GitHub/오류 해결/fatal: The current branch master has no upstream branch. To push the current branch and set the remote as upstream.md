@@ -11,3 +11,5 @@
 ```
 git push --set-upstream origin master
 ```
+
+#### 새 브랜치를 만들 때마다 설정하기 번거롭기 때문에 아래 명령어를 통해
