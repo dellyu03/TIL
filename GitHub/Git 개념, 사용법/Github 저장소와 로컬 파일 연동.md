@@ -1,4 +1,4 @@
-# Github 저장소와 로컬 파일 연동하고 커밋 하는법
+# Github 저장소와 로컬 파일 연동
 
 ### 1. git 설치
 
@@ -18,26 +18,6 @@ brew install git
 git init
 ```
 
-### 4. 스테이징
-
-```
-git add 파일명
-git add .       //현재 폴더의 모든 파일을 스테이징
-```
-
-### 5. 커밋
-
-```
-git commit -m "커밋 메시지"
-git commit -a
-```
-
-### 6. 푸쉬
-
-```
-git push
-```
-
 ## git clone
 
 ## 깃허브 저장소와 로컬 파일 연동
@@ -52,4 +32,10 @@ git init
 
 ```
 git remote add origin "repository URL"   //연동할 저장소의 URL
+```
+
+## 원격 저장소 변경하는 법
+
+```
+git remote set-url origin new-repository
 ```
