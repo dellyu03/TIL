@@ -68,3 +68,6 @@ git diff
 ```
 git commit --amend
 ```
+
+`i`를 눌러 입력모드로 들어간후  
+`:wq`를 입력해서 저장 및 종료
