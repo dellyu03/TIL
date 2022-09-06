@@ -59,7 +59,7 @@ git log
 git diff
 ```
 
-### 커밋 작업 수정 하기
+###
 
 #### git commit 메시지 수정 하기
 
