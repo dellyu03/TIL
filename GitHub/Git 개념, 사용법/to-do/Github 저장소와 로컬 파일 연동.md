@@ -31,11 +31,11 @@ git init
 2. 저장소 연결
 
 ```
-git remote add origin "repository URL"   //연동할 저장소의 URL
+git remote add branch "repository URL"   //연동할 저장소의 URL
 ```
 
 ## 원격 저장소 변경하는 법
 
 ```
-git remote set-url origin new-repository
+git remote set-url branch new-repository
 ```
