@@ -100,13 +100,59 @@ You need python'''
 - 더하기
 
 ```python
+head = "My name is"
+tail = " Dellyu"
+full_hello = head + tail
+print(full_hello)
+
+#결과
+'''
+My name is Dellyu
+'''
 
 ```
 
 - 곱하기
+
+```python
+h = "hello"
+prtin(h*2)
+#결과
+'''
+hellohello
+'''
+```
+
 - 길이 구하기
 
-### 2-3 문자열 인덱싱, 슬라이싱
+```python
+a = 'hello'
+len(a)
+
+>> 5
+```
+
+### 2-3 문자열 인덱싱
+
+- 문자열의 특정 번째 문자에 접근할 수 있게하는 문법
+
+1. 기본 형태
+
+```python
+변수[자리수]
+```
+
+ex)
+
+```python
+a = "hello world"
+a[0]
+>> h
+
+#숫자를 0번부터 세기 때문에 0번째(가장 앞에 있는 문자 0이 인덱싱
+```
+
+- **파이썬은 숫자를 0부터 셈**
 
 ### 3. 리스트
 
