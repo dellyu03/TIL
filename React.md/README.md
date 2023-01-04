@@ -6,10 +6,8 @@
 
 ---
 
-[1.리액트 시작하기](/React.md/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+[1.리액트 시작하기](./%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)   
+[2.리액트 프로젝트 구조 살펴보기](./%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C%20%EC%88%98%EC%A0%95.md)
 
-[2.CRA로 세팅한 리액트 디렉토리 구조](/React.md/%08CRA%EB%A1%9C%20%EC%84%B8%ED%8C%85%ED%95%9C%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
-
-[3.JSX](/React.md/JSX.md)
 
 ---

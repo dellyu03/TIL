@@ -107,7 +107,7 @@ head 태그 안에 작성 해야 함
 
 ### 1. 텍스트 속성
 
-- #### font-family
+- #### font-familyhttps://github.com/dellyu03/HTML-CSS
 - #### font-size
 
 - #### text -align

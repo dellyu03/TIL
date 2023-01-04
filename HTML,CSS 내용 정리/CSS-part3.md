@@ -2,7 +2,8 @@
 
 ## 목차
 
-[I.Transition](#i-transition)  
+[I.Transition](#i-transition) 
+
 [II.Animation](#ii-animation)
 
 ---
